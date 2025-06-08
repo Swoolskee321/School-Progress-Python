@@ -4,7 +4,7 @@ In Week 5 of my course
 All school project requirements met so far
 Fully functional menu system
 
-## Future Improvements (Optional)
+## 
 
 - Add ability to update item quantity
 - Allow item categories or descriptions
